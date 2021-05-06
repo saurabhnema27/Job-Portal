@@ -73,10 +73,6 @@ Resume Model
     }
 ```
 ## Project Status
-Sprint's Completed are 1,2,3,5 Link are [SprintSheet](https://docs.google.com/spreadsheets/d/101pbjXLq-RwY5grtFKkkfy1BennR9mDhczc_ijpYtwk/edit#gid=1747869372) please have a correct access right to access it.
-
-Design's Link are [Design](https://xd.adobe.com/view/d7a01fc1-5266-4749-58a8-3e65c1703c0f-a191/) please have a correct access right to access it.
-
 Then find the updated Postman collection here [Postman](https://www.getpostman.com/collections/e850bbea48a108e42522) here you have the updated collection.
 
 ## Use Case
@@ -87,12 +83,6 @@ Then find the updated Postman collection here [Postman](https://www.getpostman.c
 
 ## Contributing
 Contributed by Saurabh Nema.
-
-## Working Url
-1. API's working Url [API's]( http://139.59.82.244/ourjobflow/development/), Then add the /api/v1/ (^ your callig urls&).
-2. FrontEnd Working Url [URLS]( http://139.59.82.244/),
-
-3. Database Working URL [Database]( http://139.59.82.244/phpmyadmin). Please have a correct access.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
